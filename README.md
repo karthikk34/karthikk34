@@ -5,7 +5,7 @@
 - 👀 I’m interested in Designing Websites and Webpages.                                                
 - 🌱 I’m currently learning Web Development..
 - 🎓 Currently, I am pursuing BSc in Computer Systems and Design at PSG COLLEGE OF TECHNOLOGY.
-- ⚡* The purpose of life is to contribute in some way to making things better." — Robert F. Kennedy*
+- ⚡*The purpose of life is to contribute in some way to making things better." — Robert F. Kennedy*
 - 🔭 My purpose in life , is to combine my technical skills with innovative solutions to create value and continually advance in my profession, leveraging the constant evolution of technology.
  ### 🚩 Things to be Done by 2026
 -  [ ] Become a Full stack Developer.
