@@ -5,7 +5,7 @@
 - 👀 I’m interested in Designing Websites and Webpages.                                                
 - 🌱 I’m currently learning Web Development..
 - 🎓 Currently, I am pursuing BSc in Computer Systems and Design at PSG COLLEGE OF TECHNOLOGY.
-- ⚡*First, solve the problem. Then, write the code. John Johnson*
+- ⚡*First, solve the problem. Then, write the code. --John Johnson*
  ### 🚩 Things to be Done by 2026
 -  [ ] Become a Full stack Developer.
 -  [ ] Become UI/UX Designer.
